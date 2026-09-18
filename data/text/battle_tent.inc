@@ -471,3 +471,7 @@ BattleTentLobby_Text_ExplainLevelRules:
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed:
 	.string "Règles de la Tente de Combat de\n"
 	.string "Vergazon.$"
+
+BattleTentLobby_Text_EarnedBattlePoints:
+	.string "You've earned {STR_VAR_1} Battle Points!$"
+
