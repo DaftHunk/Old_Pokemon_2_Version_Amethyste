@@ -29,7 +29,7 @@ A full list of the features made available by **`pokeemerald-expansion`** can be
 
 # [Crédits](CREDITS.md)
 - [Remylenain](https://github.com/Remylenain) : traduction de la plupart du contenu et adaptation des textes pour coller au jeu original
-- [qigast](https://github.com/qigast) : traduction de Poké-emerald expansion qui nous sert de base pour notre traduction
+- [qigast](https://github.com/qigast) : traduction de [pokeemeraude-expansion](https://github.com/pokehacking-fr/pokeemeraude-expansion) qui nous sert de base pour notre traduction
 - [DaftHunk](https://github.com/DaftHunk?tab=repositories) : traduction et adaptation de divers contenus
 
 <!-- TODO: update .all-contributorsrc and CREDITS.md to match https://pokemonhns-development.github.io/pokehns-expansion-documentation/credits.html -->
