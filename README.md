@@ -2,6 +2,8 @@
 # Pokémon 2 : Version Améthyste 
 Romhack Française basée sur PokeHnS Expansion (Pokémon Crystal sur GBA) proposant une nouvelle approche : si Pokémon n'était pas devenu une franchise et soit resté sur le projet Pokémon 2 tout en sortant sur GBA plutôt que GBC pour aller au bout de leurs idées.
 
+La branche **hns_2_fr** est la traduction de **Pokémon Heart and Soul 2.0** sans ajouts spécifiques.
+
 # About `pokemonHnS-expansion`
 
 <!-- If you want to re-record or change these gifs, here are some notes that I used: https://files.catbox.moe/05001g.md -->
