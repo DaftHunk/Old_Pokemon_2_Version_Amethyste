@@ -27,7 +27,10 @@ Unfortunately, saves from before 2.0 will not be compatible moving forward.
 A full list of the features present in Pokémon Heart & Soul 2.0 can be found in [`FEATURES.md`](FEATURES.md)
 A full list of the features made available by **`pokeemerald-expansion`** can be found in [`AVAILABLE_FEATURES.md`](AVAILABLE_FEATURES.md).
 
-# [Credits](CREDITS.md)
+# [Crédits](CREDITS.md)
+- #remy : traduction de la plupart du contenu et adaptation des textes pour coller au jeu original
+- #qigast : traduction de Poké-emerald expansion qui nous sert de base pour notre traduction
+- #DaftHunk : traduction et adaptation de divers contenus
 
 <!-- TODO: update .all-contributorsrc and CREDITS.md to match https://pokemonhns-development.github.io/pokehns-expansion-documentation/credits.html -->
 <!-- [![](https://img.shields.io/github/all-contributors/pokemonHnS-Development/pokemonHnS-expansion/upcoming)](CREDITS.md) -->
